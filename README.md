@@ -67,4 +67,4 @@ flowchart TD
     F --> G
     G --> H[💬 User Response]
     H --> I[🏷 Nexamind Team & Project Status]
-    I --> J[⚠️ Notes: Project completed UI & backend; failed to register agent on Coral server; unable to submit final hackathon task due to Coral issues]
+    I --> J[⚠️ Notes: Project completed UI & backend; failed to register agent on Coral server; unable to submit project in hackathon due to Coral issues]
