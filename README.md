@@ -26,8 +26,8 @@ MedAssist Agent leverages multi-agent collaboration and LLMs to help patients an
 
 <!-- Row 1: Screenshots 1 & 2 (prominent) -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc2bb62b-62c0-44da-bfdc-bb65fa57413f" width="420" alt="01 - Dashboard: main options" style="margin:8px;">
-  <img src="https://github.com/user-attachments/assets/6a1a4906-6a4c-4fff-984e-79f02b68fb89" width="420" alt="02 - Emergencies list" style="margin:8px;">
+  <img src="https://github.com/user-attachments/assets/cc2bb62b-62c0-44da-bfdc-bb65fa57413f" width="280" alt="01 - Dashboard: main options" style="margin:8px;">
+  <img src="https://github.com/user-attachments/assets/6a1a4906-6a4c-4fff-984e-79f02b68fb89" width="280" alt="02 - Emergencies list" style="margin:8px;">
 </p>
 <p align="center"><em>Dashboard (check symptoms, find doctor, pharmacy, emergency) • Emergencies list with call & directions</em></p>
 
